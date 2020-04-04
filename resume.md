@@ -8,9 +8,7 @@ http://www.linkedin.com/in/brianbho
 
 # Summary
 
-* Fast-learning, highly adaptable and self-sufficient Developer with two years of programming experience
-* Passion about trendy technology, able to accomplish projects efficiently in team or individually
-* Continuously improving proficiency in programming, debugging, problem-solving and data analyzing
+> I am a Fast-learning, highly adaptable and self-sufficient Developer with two years of programming experience. Passion about trendy technology, able to accomplish projects efficiently in team or individually Continuously improving proficiency in programming, debugging, problem-solving and data analyzing
 
 # Education
 ## [University of Washington] (Seattle, WA)
