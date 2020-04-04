@@ -81,7 +81,7 @@ http://www.linkedin.com/in/brianbho
     * Demonstrated Skills: Core Programming, Database, Desktop Applications, General Software Development, Object-oriented Programming, Web Application
 ## Coding Dojo Seattle (Bellevue, WA)
 ### Jun, 2018 - Sep, 2018
-### Title: Three Full Stacks Web Development Certificate of Accomplishment
+### Title: Three Full Stacks Web Development [Certificate of Accomplishment]
 * Stack Badge:
     * C#/ASP.NET: Black Belt (100%)
     * MEAN(MongoDB, Express, Angular, Node): Black Belt(100%)
@@ -95,5 +95,5 @@ http://www.linkedin.com/in/brianbho
 [Coding Dojo]: http://www.codingdojo.com
 [Database Administration Fundamentals]: https://www.youracclaim.com/badges/7e7fa77e-b8c4-4e4d-9668-d6cb08dde2df
 [Software Development Fundamentals]: https://www.youracclaim.com/badges/6dd4acfc-6506-43f5-aa36-151d1fc9918d
-[Certificate]: https://certificate.dojo.news/d68e72e3-1394-4b11-a912-c02042d88cb0
+[Certificate of Accomplishment]: https://certificate.dojo.news/d68e72e3-1394-4b11-a912-c02042d88cb0
 
