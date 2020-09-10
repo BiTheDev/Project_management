@@ -1,98 +1,116 @@
-![](NightBlueSky.jpg)
+![](dosthgreat.jpg)
 # Brian Ho
 
-brianbho30@gmail.com
+##### Email : brianbho30@gmail.com
 
-http://Phantom30.github.io
+##### Portfolio : https://bithedev.github.io/
 
-http://www.linkedin.com/in/brianbho
+##### LinkedIn : http://www.linkedin.com/in/brianbho
 
-# Summary
+##### GitHub : https://github.com/bithedev
 
-> I am a Fast-learning, highly adaptable and self-sufficient Developer with two years of programming experience. Passion about trendy technology, able to accomplish projects efficiently in team or individually Continuously improving proficiency in programming, debugging, problem-solving and data analyzing
+## Summary
 
-# Education
-## [University of Washington] (Seattle, WA)
-### Expected August 2020
+> * Self-motivated developer with two years of programming experience
+> * Passion about trendy technology, able to accomplish projects efficiently in a team or individually
+> * Continuously expanding skillset and improving proficiency in programming, debugging, problem-solving and data analysis
+
+## Education
+####  [University of Washington] (Seattle, WA)
+#####  Graduated August 2020
 
 * BA in Geography - Geographic Information System, Mapping and Society Track, minor in Informatics
-* Courses Taken: GIS and mapping, GIS database programming, Tech Foundations (Rstudio, R), Coastal GIS
+* Courses Taken: GIS Mapping, GIS Database Programming, Tech Foundations with R, Coastal GIS, Database and Data Modeling, Design Methods, Data programming
 
-## [Bellevue College] (Bellevue, WA)
-### Graduated 2017
+#### [Bellevue College] (Bellevue, WA)
+##### Graduated 2017
 
-* Associate of Art and Science - Computer Science
+* Associate of Arts and Science - Computer Science
 * Courses Taken: SQL Fundamentals, Networking Basics,Web Development, IT Science, Systems Analysis & Design, Intro to Programming (C#),JAVA programming
 
-# Work Experience
+# Skills
+* LANGUAGES: C, JAVA, C#, Python, R, JavaScript, TypeScript
+* WEB/MOBILE DEVELOPMENT: Node.js, Django, Swift, Angular, Vue.js, React, Bootstrap
+* BIG DATA ANALYTICS: Arc/QGIS, Tableau, MapBox, RStudio, NLTK
+* SYSTEM ARCHITECTURE & DESIGN: AWS EC2, Google Cloud, Figma
+* PROJECT MANAGEMENT: GitHub, Git, Trello, Miro, Notion
+* DATABASES: SQL Server, MySQL, SQLite, PostgreSQL, MongoDB
 
-## Parker Staffing at Nintendo of America (Redmond, WA)
-### Title: Consumer Back Office - Finance (Dec, 2019 - Jan, 2020)
-* Trained as a Holiday Season employee to handle Nintendo customer request during the Holiday Season
-* Handled 50+ customer Finance tickets daily, includes digital content refunds and gift card issues
+## Most Recent Project Experience
 
-## Eightcig LLC (Las Vegas, NV)
-### Title: Web Development / Data Analyst Intern (July, 2019 - August, 2019)
-* Troubleshooted hardware issues, learned E-Commerce platform structure and analyzed company customer overall status
+#### Sports Store Database Creation
+##### Jun 2020 - July 2020
+
+* Participated in a group project with two classmates for a database creation
+* Forged SQL Relational Database with at least third normal form (3NF) from scratch in Microsoft SQL Server
+* Constructed Stored Procedures, User-Defined Business Rule, View Statement and Parameterized report for the database
+
+#### The University of Washington Point Cloud Visualization (HGIS Lab)
+##### Mar 2020 - Jun 2020
+
+* Project Link: https://hgis.uw.edu/sefs/ / Lab Link: https://hgis.uw.edu/
+* Partnered with two classmates on a project that displays a web-based point cloud visualization (potree.js) of LiDar data size over 100GB
+* Responsible for website design (HTML, CSS, JavaScript, Bootstrap) and resource research
+
+#### Human Nature Interaction Pattern Analysis
+##### Mar 2020 - Jun 2020
+
+* Partnered with two classmates and the Friends of Discovery Park organization
+* Led as a group leader, handled project progress and machine learning. Built with Python/Django
+* Analyzed human nature interaction pattern in the Discovery Park with Machine learning(NLTK)
+
+#### Measured Skills / Job Hunting Website (Freelance Project)
+##### Dec 2018 - April 2019
+
+* Collaborated with three Coding Dojo cohort mates on a freelance project for a client who is seeking a job-hunting website in Angular and MongoDB
+* Aimed to create a better connection between recruiters and applicants with skill testing assessments
+
+#### fRent / Helper Finding Website
+##### Oct 2018 - April 2019
+* Collaborated with three Coding Dojo cohort mates on a freelance project for a client who is seeking a job-hunting website in Angular and MongoDB
+* Aimed to create a better connection between recruiters and applicants with skill testing assessments
+
+#### Random DateCatcher (Coding Dojo MEAN Stack Project)
+##### Sep 2018
+* Collaborated with two Coding Dojo cohort mates during MEAN stack project week
+* A dating application that allows people to date different people randomly
+
+## Work Experience
+
+#### Eightcig LLC (Las Vegas, NV)
+##### Title: Web Development / Data Analyst Intern (July, 2019 - August, 2019)
+* Learned E-Commerce platform structure and analyzed company customer overall status
 * Analyzed 300,000+ customer online order status, margin, order behaviors and thousands of product inventory status with R, Rstudio and excel
 * Acquired Shopify structure and construct a sample website in order to cooperate with other co-workers
 
-# Skills
-* LANGUAGES: C#, R, JAVA, CSS3,JQuery, Python, HTML5, Javascript, TypeScript
-* FRAMEWORKS: LINQ,Flask,Dapper, Django, Angular, Node.js, Express.js, Bootstrap, ASP.NET Core, Entity Framework
-* DATABASES: SQL, NoSQL, SQLite, MongoDB, PostgreSQL
-* TOOLS: pgadmin, QGIS, ArcGIS, Git, npm, AJAX,Bcrypt, Postman, AWS EC2, Mongoose, Restful API
+## Certificates
 
-# Project Experience
+#### Title: Microsoft Technology Associate (MTA) - Database Administration Fundamentals
+##### Issued by Microsoft, May 2019
 
-## ChatBot (Personal Project)
-### Feb,2020 - present
-* Constructing a web-based python ChatBot by online self-learning that is aiming to be able to chat with users. Set up in Python/Flask framework, plan to transfer to Python/Django framework in the future.
-* Improving Python structure skill on Udemy 
+Demonstrated Skills: Core Data Structure, Database Objects, Database Administration, Data Manipulation, Data Storage
 
-## Measured Skills (freelance Project)
-### Dec, 2018 - Apr, 2019
-* Collaborated with three Coding Dojo cohort mate on a project for a client who is seeking a platform for better communication between recruiters and applicants
+###### View License : [Database Badge]
 
+#### Title: Microsoft Technology Associate (MTA) - Software Development Fundamentals
+##### Issued by Microsoft, May 2019
 
-## fRent (Personal Project)
-### Oct, 2018 - Apr, 2019
-* Collaborated with Coding Dojo teammates on a private project which was aiming for people looking for daily life assistance.
+Demonstrated Skills: Object-oriented Programming, Desktop Applications, General Software Development, Web Application
 
-## Random DateCatcher (MEAN stack Project)
-### Sep, 2018 - Sep, 2018
-* Collaborated with two Coding Dojo teammates during MEAN stack project week about the application for people wish to randomize their dating
+###### View License : [Software Dev Badge]
 
-## E - Commerce (C# Stack Project)
-### Aug, 2018 - Aug, 2018
-* Built an E-Commerce website individually during C#/ASP.NET Core stack project week
+#### Title: Coding Dojo Seattle - Three Full Stacks Web Development Certificate of Accomplishment
+##### Issued by Coding Dojo, Sep 2018
 
-## Food Truck Simulator (Python Stack Project)
-### Jul, 2018 - Jul, 2018
-* Collaborated with two Coding Dojo teammates during Python Stack Project week about a web-base game in Food truck topic that allows player to work as a food truck vendor and improve their rank to compete with other players.
+Demonstrated Skills: .NET Stack (ASP, C#, ASP.NET Core, TypeScript), MEAN Stack (MongoDB, Express, Angular, Node), Python Stack (Django, Flask)
 
-# Certificates
-## Microsoft Technology Associate (MTA) Certificate 
-### Issused by Microsoft, May, 2019
-* #### Title: [Database Administration Fundamentals]
-    * Demonstrated Skills: Core Database Concepts, Creating Database Objects, Database Administration, Data Manipulation, Data Storage
-* #### Title: [Software Development Fundamentals]
-    * Demonstrated Skills: Core Programming, Database, Desktop Applications, General Software Development, Object-oriented Programming, Web Application
-## Coding Dojo Seattle (Bellevue, WA)
-### Jun, 2018 - Sep, 2018
-### Title: Three Full Stacks Web Development [Certificate of Accomplishment]
-* Stack Badge:
-    * C#/ASP.NET: Black Belt (100%)
-    * MEAN(MongoDB, Express, Angular, Node): Black Belt(100%)
-    * Python/Django: Red Belt (90%)
-
-
+###### View License : [Certificate of Accomplishment]
 
 
 [University of Washington]: http://www.washington.edu
 [Bellevue College]: http://www.bellevuecollege.edu
 [Coding Dojo]: http://www.codingdojo.com
-[Database Administration Fundamentals]: https://www.youracclaim.com/badges/7e7fa77e-b8c4-4e4d-9668-d6cb08dde2df
-[Software Development Fundamentals]: https://www.youracclaim.com/badges/6dd4acfc-6506-43f5-aa36-151d1fc9918d
+[Database Badge]: https://www.youracclaim.com/badges/7e7fa77e-b8c4-4e4d-9668-d6cb08dde2df
+[Software Dev Badge]: https://www.youracclaim.com/badges/6dd4acfc-6506-43f5-aa36-151d1fc9918d
 [Certificate of Accomplishment]: https://certificate.dojo.news/d68e72e3-1394-4b11-a912-c02042d88cb0
 
