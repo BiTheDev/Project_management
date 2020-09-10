@@ -1,12 +1,6 @@
 # Brian Ho
 
-##### Email : brianbho30@gmail.com
-
-##### Portfolio : https://bithedev.github.io/
-
-##### LinkedIn : http://www.linkedin.com/in/brianbho
-
-##### GitHub : https://github.com/bithedev
+##### [Email] &nbsp; [Portfolio] &nbsp; [Github] &nbsp; [LinkedIn]
 
 ## Summary
 
@@ -112,4 +106,9 @@ Demonstrated Skills: .NET Stack (ASP, C#, ASP.NET Core, TypeScript), MEAN Stack 
 [Database Badge]: https://www.youracclaim.com/badges/7e7fa77e-b8c4-4e4d-9668-d6cb08dde2df
 [Software Dev Badge]: https://www.youracclaim.com/badges/6dd4acfc-6506-43f5-aa36-151d1fc9918d
 [Certificate of Accomplishment]: https://certificate.dojo.news/d68e72e3-1394-4b11-a912-c02042d88cb0
+
+[Portfolio]: https://bithedev.github.io/
+[Email]: brianbho30@gmail.com
+[LinkedIn]: http://www.linkedin.com/in/brianbho
+[GitHub]: https://github.com/bithedev
 
