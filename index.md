@@ -1,4 +1,3 @@
-![](dosthgreat.jpg)
 # Brian Ho
 
 ##### Email : brianbho30@gmail.com
