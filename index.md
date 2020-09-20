@@ -29,6 +29,20 @@
 | PROJECT MANAGEMENT | GitHub, Git, Trello, Miro, Notion |
 | DATABASES | Microsoft SQL Server, MySQL, SQLite, PostgreSQL, MongoDB |
 
+<h2 align='center'> Internship / Work Experience </h2>
+
+#### University of Washington Humanistic GIS Lab (Seattle, WA)
+##### Title: Part-time Geo-BlockChain Project Developer (July, 2020 - Present)
+* Program an application that encourage users to donate Crptocurrency to financially vulnerable geographic regions that hold a fundraising event and support the community.
+* Currently under heavy development with Vue.js, web3.js, MapBox, and MySQL database.
+* Volunteered to join the project to learn new skill with lab mates and instructed by lab professor.
+
+#### Eightcig LLC (Las Vegas, NV)
+##### Title: Web Development / Data Analyst Intern (July, 2019 - August, 2019)
+* Learned E-Commerce platform structure and analyzed company customer overall status
+* Analyzed 300,000+ customer online order status, margin, order behaviors and thousands of product inventory status with R, Rstudio and excel
+
+
 <h2 align='center'>Project Experience</h2>
 
 #### Sports Store Database Creation
@@ -64,22 +78,6 @@
 * Drop service website to connect service providers with clients.
 * Programmed with a stack contains Angular 7, TypeScript, C#, and MySQL database to explore new possibilities with different web development tools. 
 * Cooperated with Coding Dojo mates on design database from scratch that includes 20+ tables and hundreds of columns.
-
-
-<h2 align='center'> Internship / Work Experience </h2>
-
-
-#### Eightcig LLC (Las Vegas, NV)
-##### Title: Web Development / Data Analyst Intern (July, 2019 - August, 2019)
-* Learned E-Commerce platform structure and analyzed company customer overall status
-* Analyzed 300,000+ customer online order status, margin, order behaviors and thousands of product inventory status with R, Rstudio and excel
-* Acquired Shopify structure and construct a sample website in order to cooperate with other co-workers
-
-#### University of Washington Humanistic GIS Lab (Seattle, WA)
-##### Title: Part-time Geo-BlockChain Project Developer (July, 2020 - Present)
-* Program an application that encourage users to donate Crptocurrency to financially vulnerable geographic regions that hold a fundraising event and support the community.
-* Currently under heavy development with Vue.js, web3.js, MapBox, and MySQL database.
-* Volunteered to join the project to learn new skill with lab mates and instructed by lab professor.
 
 
 <h2 align='center'> Certificates </h2>
