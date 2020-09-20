@@ -1,75 +1,80 @@
-# Brian Ho
+<h1 align='center'>Brian Ho</h1>
+<h5 align='center'>Email: <a href="mailto:brianbho30@gmail.com"> brianbho30@gmail.com </a> &nbsp <a href=""> Portfolio </a> &nbsp <a href=""> Github </a> &nbsp <a href=""> LinkedIn </a></h5>
 
-##### Email : <brianbho30@gmail.com>
-##### [Portfolio] &nbsp; [Github] &nbsp; [LinkedIn]
 
-## Summary
+<h2 align='center'> Summary </h2>
 
-> * Self-motivated developer with two years of programming experience
+> * Self-motivated developer with three years of programming experience
 > * Passion about trendy technology, able to accomplish projects efficiently in a team or individually
 > * Continuously expanding skillset and improving proficiency in programming, debugging, problem-solving and data analysis
 
-## Education
+<h2 align ='center'> Education </h2>
+
 ####  [University of Washington] (Seattle, WA)
 #####  Graduated August 2020
 
 * BA in Geography - Geographic Information System, Mapping and Society Track, minor in Informatics
-* Courses Taken: GIS Mapping, GIS Database Programming, Tech Foundations with R, Coastal GIS, Database and Data Modeling, Design Methods, Data programming
 
-#### [Bellevue College] (Bellevue, WA)
-##### Graduated 2017
+<h5 align='center'> Relevant Course</h5>
 
-* Associate of Arts and Science - Computer Science
-* Courses Taken: SQL Fundamentals, Networking Basics,Web Development, IT Science, Systems Analysis & Design, Intro to Programming (C#),JAVA programming
+Intro to Programming (C#),JAVA programming, SQL Fundamentals, Database and Data Modeling, Design Methods, Data programming, Networking Basics,Web Development, IT Science, Systems Analysis & Design, GIS Mapping, GIS Database Programming, Tech Foundations with R, Coastal GIS, 
 
-# Skills
-* LANGUAGES: C, JAVA, C#, Python, R, JavaScript, TypeScript
-* WEB/MOBILE DEVELOPMENT: Node.js, Django, Swift, Angular, Vue.js, React, Bootstrap
-* BIG DATA ANALYTICS: Arc/QGIS, Tableau, MapBox, RStudio, NLTK
-* SYSTEM ARCHITECTURE & DESIGN: AWS EC2, Google Cloud, Figma
-* PROJECT MANAGEMENT: GitHub, Git, Trello, Miro, Notion
-* DATABASES: SQL Server, MySQL, SQLite, PostgreSQL, MongoDB
 
-## Most Recent Project Experience
+<h2 align='center'> Skills </h2>
+
+| Category | Skills |
+| ---- |:----:|
+| LANGUAGES | C, JAVA, C#, Python, R, JavaScript, TypeScript |
+| WEB/MOBILE DEVELOPMENT | Node.js, Django, Swift, Angular, Vue.js, React, Bootstrap |
+| BIG DATA ANALYTICS | Arc/QGIS, Tableau, MapBox, RStudio, NLTK |
+| SYSTEM ARCHITECTURE & DESIGN | AWS EC2, Google Cloud, Figma |
+| PROJECT MANAGEMENT | GitHub, Git, Trello, Miro, Notion |
+| DATABASES | Microsoft SQL Server, MySQL, SQLite, PostgreSQL, MongoDB |
+
+<h2 align='center'>Project Experience</h2>
 
 #### Sports Store Database Creation
 ##### Jun 2020 - July 2020
 
-* Participated in a group project with two classmates for a database creation
-* Forged SQL Relational Database with at least third normal form (3NF) from scratch in Microsoft SQL Server
-* Constructed Stored Procedures, User-Defined Business Rule, View Statement and Parameterized report for the database
+* Built  SQL Relational database targeted to handle 30000+ database transaction.
+* Forged database structure with at least third normal form (3NF) from ERD diagram in Microsoft SQL Server to ensure performance and eliminate data redundancy.
+* Collaborated with a group project with two classmates; Constructed Schemas, Stored Procedures, User-Defined Business Rule, View Statement and Parameterized report for the database 
 
 #### The University of Washington Point Cloud Visualization (HGIS Lab)
 ##### Mar 2020 - Jun 2020
 
-* Project Link: https://hgis.uw.edu/sefs/ / Lab Link: https://hgis.uw.edu/
-* Partnered with two classmates on a project that displays a web-based point cloud visualization (potree.js) of LiDar data size over 100GB
-* Responsible for website design (HTML, CSS, JavaScript, Bootstrap) and resource research
+* A web-based 3D data visualization project as a virtual campus tour. Supported by Potree JavaScript library to render 10GB of dataset within seconds.
+* Designed user-friendly landing page and user interface with css, javascript and bootstrap. 
+* 
 
 #### Human Nature Interaction Pattern Analysis
 ##### Mar 2020 - Jun 2020
 
-* Partnered with two classmates and the Friends of Discovery Park organization
-* Led as a group leader, handled project progress and machine learning. Built with Python/Django
-* Analyzed human nature interaction pattern in the Discovery Park with Machine learning(NLTK)
+* Analyzed human nature interaction pattern in the Discovery Park with Machine learning(NLTK). To Understand how people behave when interacting with nature environment and animals.
+* Led team of two classmate to handled project progress and machine learning. Built with Python/Django.
+* Partnered with The Friends of Discovery Park organization who was aiming to analyze the visitor behavior pattern in Discovery Park.
 
 #### Measured Skills / Job Hunting Website (Freelance Project)
 ##### Dec 2018 - April 2019
 
+* Developed a freelance project for a client introduced by Coding Dojo who is looking for a functional website to start the business.
+* Established a better connection between recruiters and applicants with skill testing assessments and efficient communication to increase 50% of hiring efficiency.
 * Collaborated with three Coding Dojo cohort mates on a freelance project for a client who is seeking a job-hunting website in Angular and MongoDB
-* Aimed to create a better connection between recruiters and applicants with skill testing assessments
 
 #### fRent / Helper Finding Website
 ##### Oct 2018 - April 2019
-* Collaborated with three Coding Dojo cohort mates on a freelance project for a client who is seeking a job-hunting website in Angular and MongoDB
-* Aimed to create a better connection between recruiters and applicants with skill testing assessments
+* Created a helper finding website for fulfilling the request from people who need assistance to achieve specific tasks.
+* Programmed with a stack contains Angular 7, TypeScript, C#, and MySQL database to explore new possibilities with different web development tools. 
+* Cooperated with Coding Dojo mates on design database from scratch that includes 20+ tables and hundreds of columns.
 
 #### Random DateCatcher (Coding Dojo MEAN Stack Project)
 ##### Sep 2018
-* Collaborated with two Coding Dojo cohort mates during MEAN stack project week
-* A dating application that allows people to date different people randomly
+* Composed a MEAN stack project that aim to encourage people to meet different people. 
+* Acted as API/database constructor to ensure the data process correctly.
+* Collaborated with two Coding Dojo cohort mates during MEAN stack project week.
 
-## Work Experience
+<h2 align='center'> Internship / Work Experience </h2>
+
 
 #### Eightcig LLC (Las Vegas, NV)
 ##### Title: Web Development / Data Analyst Intern (July, 2019 - August, 2019)
@@ -77,7 +82,14 @@
 * Analyzed 300,000+ customer online order status, margin, order behaviors and thousands of product inventory status with R, Rstudio and excel
 * Acquired Shopify structure and construct a sample website in order to cooperate with other co-workers
 
-## Certificates
+#### University of Washington HGIS Lab (Seattle, WA)
+##### Title: Part-time Geo-BlockChain Project Developer (July, 2020 - Present)
+* Program an application that encourage users to donate Crptocurrency to financially vulnerable geographic regions that hold a fundraising event and support the community.
+* Currently under heavy development with Vue.js / Vuetify (front-end), web3/solidity(Crptocurrency structure), MapBox(geolocation and map display), and MySQL database/
+* Volunteered to join the project to learn new skill with lab mates and instructed by lab professor.
+
+
+<h2 align='center'> Certificates </h2>
 
 #### Title: Microsoft Technology Associate (MTA) - Database Administration Fundamentals
 ##### Issued by Microsoft, May 2019
