@@ -5,9 +5,9 @@
 
 <h2 align='center'> Summary </h2>
 
-> * Self-motivated software enthusiast with three years of programming experience.
-> * Passion for trendy technology, able to accomplish projects efficiently in a team or individual.
-> *  Continue expanding skillset and improving proficiency in programming, debugging, problem-solving and data analysis.
+> * Self-motivated software enthusiast with three years of programming in individual and team projects.
+> * Passion for AI, VR, AR ,and Big Data. Able to accomplish projects efficiently in a team or individual.
+> * Ever-expanding skillset and proficiency in programming, debugging, problem-solving and data analysis.
 
 <h2 align ='center'> Education </h2>
 
@@ -15,10 +15,7 @@
 #####  Graduated August 2020
 
 * BA in Geography - Geographic Information System, Mapping and Society Track, minor in Informatics
-
-<h5 align='center'> Relevant Course</h5>
-
-Intro to Programming (C#),JAVA programming, SQL Fundamentals, Database and Data Modeling, Design Methods, Data programming, Networking Basics,Web Development, IT Science, Systems Analysis & Design, GIS Mapping, GIS Database Programming, Tech Foundations with R, Coastal GIS, 
+* Relevant Course: Intro to Programming (C#), JAVA programming, SQL Fundamentals, Database and Data Modeling, Design Methods, Data programming, Networking Basics,Web Development, IT Science, Systems Analysis & Design, GIS Mapping, GIS Database Programming, Tech Foundations with R, Coastal GIS.
 
 
 <h2 align='center'> Skills </h2>
@@ -37,42 +34,37 @@ Intro to Programming (C#),JAVA programming, SQL Fundamentals, Database and Data 
 #### Sports Store Database Creation
 ##### Jun 2020 - July 2020
 
-* Built  SQL Relational database targeted to handle 30000+ database transaction.
+* Built SQL Relational database targeted to handle 30000+ database transaction.
 * Forged database structure with at least third normal form (3NF) from ERD diagram in Microsoft SQL Server to ensure performance and eliminate data redundancy.
-* Collaborated with a group project with two classmates; Constructed Schemas, Stored Procedures, User-Defined Business Rule, View Statement and Parameterized report for the database 
+* Collaborated with a group project with two classmates: Constructed Schemas, Stored Procedures, User-Defined Business Rule, View Statement and Parameterized report for the database 
 
-#### The University of Washington Point Cloud Visualization (HGIS Lab)
+#### The University of Washington Point Cloud Visualization (Humanistic GIS Lab)
 ##### Mar 2020 - Jun 2020
 
-* A web-based 3D data visualization project as a virtual campus tour. Supported by Potree JavaScript library to render 10GB of dataset within seconds.
-* Designed user-friendly landing page and user interface with css, javascript and bootstrap. 
-* 
+* A web-based 3D data visualization project to showcase a virtual campus tour.
+* Potree JavaScript library support to render 10GB of dataset within seconds.
+* Designed user-friendly landing page and user interface with CSS, JavaScript and Bootstrap. 
+* Three-person collaboration under the instruction of Professor/ Dr. Bo Zhao.
 
 #### Human Nature Interaction Pattern Analysis
 ##### Mar 2020 - Jun 2020
 
-* Analyzed human nature interaction pattern in the Discovery Park with Machine learning(NLTK). To Understand how people behave when interacting with nature environment and animals.
-* Led team of two classmate to handled project progress and machine learning. Built with Python/Django.
+* Analyzed human nature interaction pattern in the Discovery Park with Machine learning(NLTK) to understand how people behave when interacting with nature and animals in their natural habitat.
+* Led a team of three to build Python/Django project with machine learning.
 * Partnered with The Friends of Discovery Park organization who was aiming to analyze the visitor behavior pattern in Discovery Park.
 
 #### Measured Skills / Job Hunting Website (Freelance Project)
 ##### Dec 2018 - April 2019
 
-* Developed a freelance project for a client introduced by Coding Dojo who is looking for a functional website to start the business.
-* Established a better connection between recruiters and applicants with skill testing assessments and efficient communication to increase 50% of hiring efficiency.
+* Freelance web project to connect prospective employers with job applicants through skill proficiency tests.
 * Collaborated with three Coding Dojo cohort mates on a freelance project for a client who is seeking a job-hunting website in Angular and MongoDB
 
 #### fRent / Helper Finding Website
 ##### Oct 2018 - April 2019
-* Created a helper finding website for fulfilling the request from people who need assistance to achieve specific tasks.
+* Drop service website to connect service providers with clients.
 * Programmed with a stack contains Angular 7, TypeScript, C#, and MySQL database to explore new possibilities with different web development tools. 
 * Cooperated with Coding Dojo mates on design database from scratch that includes 20+ tables and hundreds of columns.
 
-#### Random DateCatcher (Coding Dojo MEAN Stack Project)
-##### Sep 2018
-* Composed a MEAN stack project that aim to encourage people to meet different people. 
-* Acted as API/database constructor to ensure the data process correctly.
-* Collaborated with two Coding Dojo cohort mates during MEAN stack project week.
 
 <h2 align='center'> Internship / Work Experience </h2>
 
@@ -83,10 +75,10 @@ Intro to Programming (C#),JAVA programming, SQL Fundamentals, Database and Data 
 * Analyzed 300,000+ customer online order status, margin, order behaviors and thousands of product inventory status with R, Rstudio and excel
 * Acquired Shopify structure and construct a sample website in order to cooperate with other co-workers
 
-#### University of Washington HGIS Lab (Seattle, WA)
+#### University of Washington Humanistic GIS Lab (Seattle, WA)
 ##### Title: Part-time Geo-BlockChain Project Developer (July, 2020 - Present)
 * Program an application that encourage users to donate Crptocurrency to financially vulnerable geographic regions that hold a fundraising event and support the community.
-* Currently under heavy development with Vue.js / Vuetify (front-end), web3/solidity(Crptocurrency structure), MapBox(geolocation and map display), and MySQL database/
+* Currently under heavy development with Vue.js, web3.js, MapBox, and MySQL database.
 * Volunteered to join the project to learn new skill with lab mates and instructed by lab professor.
 
 
