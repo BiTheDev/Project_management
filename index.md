@@ -34,6 +34,8 @@
 #### University of Washington Humanistic GIS Lab (Seattle, WA)
 ##### Title: Part-time Geo-BlockChain Project Developer (July, 2020 - Present)
 * Building an application that encourages users to donate cryptocurrency to financially vulnerable geographic regions by hold fundraising events to support the community.
+* Improve website performance by converting website structure into full-stack development.
+* Acted as a front-end developer to ensure application working as expected.
 * Currently under heavy development with Vue.js, web3.js, MapBox, and MySQL database.
 
 #### Eightcig LLC (Las Vegas, NV)
@@ -70,7 +72,7 @@
 ##### Dec 2018 - April 2019
 
 * Freelance web project to connect prospective employers with job applicants through skill proficiency tests.
-* Collaborated with three Coding Dojo cohort mates on a freelance project for a client who is seeking a job-hunting website in Angular and MongoDB
+* Collaborated with three Coding Dojo cohort mates with a client who is seeking a job-hunting website in Angular and MongoDB.
 
 #### fRent / Helper Finding Website
 ##### Oct 2018 - April 2019
