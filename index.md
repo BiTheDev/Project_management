@@ -33,14 +33,13 @@
 
 #### University of Washington Humanistic GIS Lab (Seattle, WA)
 ##### Title: Part-time Geo-BlockChain Project Developer (July, 2020 - Present)
-* Program an application that encourage users to donate Crptocurrency to financially vulnerable geographic regions that hold a fundraising event and support the community.
+* Building an application that encourages users to donate cryptocurrency to financially vulnerable geographic regions by hold fundraising events to support the community.
 * Currently under heavy development with Vue.js, web3.js, MapBox, and MySQL database.
-* Volunteered to join the project to learn new skill with lab mates and instructed by lab professor.
 
 #### Eightcig LLC (Las Vegas, NV)
 ##### Title: Web Development / Data Analyst Intern (July, 2019 - August, 2019)
-* Learned E-Commerce platform structure and analyzed company customer overall status
-* Analyzed 300,000+ customer online order status, margin, order behaviors and thousands of product inventory status with R, Rstudio and excel
+* Learned E-Commerce and used Shopify’s platform to construct a website to cooperate with co-workers.
+* Analyzed 300,000+ order statuses, margins, order behaviors and thousands of product inventory statuses with R, Rstudio and Excel.
 
 
 <h2 align='center'>Project Experience</h2>
@@ -82,33 +81,29 @@
 
 <h2 align='center'> Certificates </h2>
 
-#### Title: Microsoft Technology Associate (MTA) - Database Administration Fundamentals
+#### Title: Microsoft Technology Associate (MTA) - [Database Administration Fundamentals]
 ##### Issued by Microsoft, May 2019
 
 Demonstrated Skills: Core Data Structure, Database Objects, Database Administration, Data Manipulation, Data Storage
 
-###### View License : [Database Badge]
 
-#### Title: Microsoft Technology Associate (MTA) - Software Development Fundamentals
+#### Title: Microsoft Technology Associate (MTA) - [Software Development Fundamentals]
 ##### Issued by Microsoft, May 2019
 
 Demonstrated Skills: Object-oriented Programming, Desktop Applications, General Software Development, Web Application
 
-###### View License : [Software Dev Badge]
 
-#### Title: Coding Dojo Seattle - Three Full Stacks Web Development Certificate of Accomplishment
+#### Title: Coding Dojo Seattle - Three Full Stacks Web Development [Certificate of Accomplishment]
 ##### Issued by Coding Dojo, Sep 2018
 
 Demonstrated Skills: .NET Stack (ASP, C#, ASP.NET Core, TypeScript), MEAN Stack (MongoDB, Express, Angular, Node), Python Stack (Django, Flask)
-
-###### View License : [Certificate of Accomplishment]
 
 
 [University of Washington]: http://www.washington.edu
 [Bellevue College]: http://www.bellevuecollege.edu
 [Coding Dojo]: http://www.codingdojo.com
-[Database Badge]: https://www.youracclaim.com/badges/7e7fa77e-b8c4-4e4d-9668-d6cb08dde2df
-[Software Dev Badge]: https://www.youracclaim.com/badges/6dd4acfc-6506-43f5-aa36-151d1fc9918d
+[Database Administration Fundamentals]: https://www.youracclaim.com/badges/7e7fa77e-b8c4-4e4d-9668-d6cb08dde2df
+[Software Development Fundamentals]: https://www.youracclaim.com/badges/6dd4acfc-6506-43f5-aa36-151d1fc9918d
 [Certificate of Accomplishment]: https://certificate.dojo.news/d68e72e3-1394-4b11-a912-c02042d88cb0
 
 [Portfolio]: https://bithedev.github.io/
