@@ -1,12 +1,13 @@
 <h1 align='center'>Brian Ho</h1>
-<h5 align='center'>Email: <a href="mailto:brianbho30@gmail.com"> brianbho30@gmail.com </a> &nbsp <a href=""> Portfolio </a> &nbsp <a href=""> Github </a> &nbsp <a href=""> LinkedIn </a></h5>
+<h5 align='center'>Email: <a href="mailto:brianbho30@gmail.com"> brianbho30@gmail.com </a> </h5> 
+<h6 align='center'> <a href=""> Portfolio </a> <a href=""> Github </a> <a href=""> LinkedIn </a> </h6>
 
 
 <h2 align='center'> Summary </h2>
 
-> * Self-motivated developer with three years of programming experience
-> * Passion about trendy technology, able to accomplish projects efficiently in a team or individually
-> * Continuously expanding skillset and improving proficiency in programming, debugging, problem-solving and data analysis
+> * Self-motivated software enthusiast with three years of programming experience.
+> * Passion for trendy technology, able to accomplish projects efficiently in a team or individual.
+> *  Continue expanding skillset and improving proficiency in programming, debugging, problem-solving and data analysis.
 
 <h2 align ='center'> Education </h2>
 
